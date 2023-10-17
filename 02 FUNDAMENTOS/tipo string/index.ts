@@ -1,9 +1,9 @@
 // Declaração de Variavel 
-const firstName: string = 'Matheus'
+const firstName: string = 'Carlos'
 // FUncionamento JSON 
 console.log(firstName.toUpperCase())
 
-const lastName: string = 'Battisti'
+const lastName: string = 'Eduardo'
 
 // Variavel tipada mas ainda não declarada
 let fullName: string
