@@ -1,8 +1,8 @@
 // Declaração de Variavel 
-var firstName = 'Matheus';
+var firstName = 'Carlos';
 // FUncionamento JSON 
 console.log(firstName.toUpperCase());
-var lastName = 'Battisti';
+var lastName = 'Eduardo';
 // Variavel tipada mas ainda não declarada
 var fullName;
 fullName = firstName + ' ' + lastName;
